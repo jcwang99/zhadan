@@ -1,0 +1,75 @@
+﻿  clogic.cpp
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(4): error C2653: “clogic”: 不是类或命名空间名称
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(6): error C2065: “m_curLevel”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(7): warning C4508: “clogic”: 函数应返回一个值；假定“void”返回类型
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(8): error C2653: “clogic”: 不是类或命名空间名称
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(9): error C2084: 函数“int clogic(void)”已有主体
+  c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(4): note: 参见“clogic”的前一个定义
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(12): error C2653: “clogic”: 不是类或命名空间名称
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(14): error C2065: “LatticeNum_L”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(16): error C2065: “LatticeNum_H”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(20): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(20): error C2065: “Type_Num”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(24): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(24): error C2065: “Type_Num”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(42): error C2653: “clogic”: 不是类或命名空间名称
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(44): error C2065: “c_iBrickNum”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(44): error C2065: “m_curLevel”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(45): error C2065: “m_doorPos”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(45): error C2228: “.x”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(45): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(46): error C2065: “m_doorPos”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(46): error C2228: “.y”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(46): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(53): error C2065: “LatticeNullNum”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(66): error C2065: “LatticeNum_L”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(68): error C2065: “LatticeNum_H”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(70): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(70): error C2065: “Type_Stone”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(76): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(76): error C2065: “Type_Brick”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(79): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(79): error C2065: “Type_Brickdoor”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(87): error C2065: “m_Lattice”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(87): error C2065: “Type_Man”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(88): error C2065: “m_fireManPos”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(88): error C2228: “.x”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(88): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(89): error C2065: “m_fireManPos”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(89): error C2228: “.y”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(89): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(89): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(92): error C2653: “clogic”: 不是类或命名空间名称
+c:\嘤嘤嘤\zhadanren\zhadanren\clogic.cpp(94): error C2065: “m_curLevel”: 未声明的标识符
+  正在生成代码...
+  正在编译...
+  zhadanren.cpp
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“g_logic”的前面)
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(122): error C2065: “g_logic”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(122): error C2228: “.GameBegin”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(122): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(230): error C2065: “LatticeNum_L”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(232): error C2065: “LatticeNum_H”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): error C2065: “LatticeType”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): error C2146: 语法错误: 缺少“;”(在标识符“curType”的前面)
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): error C2065: “curType”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): error C2065: “g_logic”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): error C2228: “.m_Lattice”的左边必须有类/结构/联合
+  c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(234): note: 类型是“unknown-type”
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(235): error C2065: “curType”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(235): error C2065: “Type_Stone”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(238): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(239): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(240): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(241): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(245): error C2065: “curType”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(245): error C2065: “Type_Brick”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(245): error C2065: “Type_Brickdoor”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(248): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(249): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(250): error C2065: “Lattice_Len”: 未声明的标识符
+c:\嘤嘤嘤\zhadanren\zhadanren\zhadanren.cpp(251): error C2065: “Lattice_Len”: 未声明的标识符
+  正在生成代码...
